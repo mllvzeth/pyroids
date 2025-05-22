@@ -1,4 +1,4 @@
-#!/workspaces/pyroids/venv/bin/python3
+#!/Users/marcos/github.com/mllvzeth/pyroids/venv/bin/python3.13
 # -*- coding: utf-8 -*-
 import re
 import sys
