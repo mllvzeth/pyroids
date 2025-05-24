@@ -2,8 +2,8 @@ from circleshape import CircleShape
 from pygame import Vector2, draw
 
 class Asteroid(CircleShape):
-    def __init__(self, x, y, radius):
-        super().__init__(x, y, radius)
+    def __init__(self, x, y, radius, containers=None):
+        super().__init__(x, y, radius, containers=containers)
         self.rotation = 0  # Add rotation for the asteroid
     
     def update(self, dt):
