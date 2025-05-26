@@ -12,6 +12,8 @@ Crafted by Marcos Alexander Chavez ([mllvzeth](https://github.com/mllvzeth)), th
 - 🏆 [Boot.dev Certificate of Completion](https://www.boot.dev/certificates/c24ff5e9-5cfe-4001-851a-5c4b9d99436f)
 - 📚 [Course: Build Asteroids in Python](https://www.boot.dev/courses/build-asteroids-python)
 
+[![Boot.dev Certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/c24ff5e9-5cfe-4001-851a-5c4b9d99436f.jpeg?1748218389527)](https://www.boot.dev/certificates/c24ff5e9-5cfe-4001-851a-5c4b9d99436f)
+
 <sub>For further work and credentials, follow the links above.</sub>
 
 ---
